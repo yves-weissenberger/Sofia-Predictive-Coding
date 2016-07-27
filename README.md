@@ -1,4 +1,5 @@
-# Sofia-Predictive-Coding
-Author: Sofia Deleniv 
-Sofia Behaviour Code for Predictive Coding Experiments
+# Predictive-Coding Experiments
+## Author: Sofia Deleniv 
+
+Behaviour Code for Predictive Coding Experiments
 
